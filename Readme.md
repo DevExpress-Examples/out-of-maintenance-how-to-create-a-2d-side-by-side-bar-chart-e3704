@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/SidebySideBarChart/MainPage.xaml) (VB: [MainPage.xaml](./VB/SidebySideBarChart/MainPage.xaml))
+<!-- default file list end -->
 # How to create a 2D Side-by-Side Bar chart
 
 
